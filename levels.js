@@ -1,4 +1,4 @@
-const GAME_LEVELS = [
+const GAME_LEVELS = [[
 "                                                                                ",
 "                                                                                ",
 "                                                                                ",
@@ -22,7 +22,7 @@ const GAME_LEVELS = [
 "                              x!!!x                  x!!!!!x                    ",
 "                              xxxxx                  xxxxxxx                    ",
 "                                                                                ",
-"                                                                                "] /*,
+"                                                                                "],
 ["                                      x!!x                        xxxxxxx                                    x!x  ",
    "                                      x!!x                     xxxx     xxxx                                 x!x  ",
    "                                      x!!xxxxxxxxxx           xx           xx                                x!x  ",
@@ -100,4 +100,4 @@ const GAME_LEVELS = [
    "  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx           xxxxxxxxxxxxxxxxxxxxxxxxxxxxx     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  ",
    "                                                                                                              ",
    "                                                                                                              "],
-]; */
+]; 
